@@ -14,7 +14,7 @@ oriented = function(e) {
 
 
         if(compassHeading >= 45 && compassHeading < 135) {
-        text_area.textContent = "east, a balcony, a, \n south";
+        text_area.textContent = "east, a balcony, b,不 \n south";
         }
 
         if(compassHeading >= 135 && compassHeading < 225) {
